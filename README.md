@@ -1,2 +1,2 @@
 # .CSS
-Different projects while learning .CSS
+Different projects while learning .CSS, demonstrating beginner to intermediate/advanced
